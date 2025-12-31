@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/aryantaheri.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "aryantaheri.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -73,7 +73,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "x.com/aryandtaheri"
+  twitter          : "aryandtaheri"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
