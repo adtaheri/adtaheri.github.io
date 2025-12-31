@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Aryan Taheri / Site Title"
+title                    : "Aryan Taheri / Home"
 title_separator          : "-"
 name                     : &name "Aryan Taheri"
 description              : &description "Aryan Taheri's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,12 @@ repository               : "adtaheri/adtaheri.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Aryan Taheri"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of California, Berkeley"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aryan_taheri@berkeley.edu" 
 
   # Academic websites
   academia         : # URL
