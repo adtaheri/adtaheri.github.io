@@ -23,7 +23,7 @@ repository               : "adtaheri/adtaheri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Headshot.jpg"
   name             : "Aryan Taheri"
   pronouns         : # "he/him"  
   bio              : "Structural Biologist & NSF GRFP Fellow"
