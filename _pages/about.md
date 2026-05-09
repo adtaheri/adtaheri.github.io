@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biochemist and structural biologist passionate about molecular mechanisms"
 author_profile: true
 redirect_from: 
   - /about/
