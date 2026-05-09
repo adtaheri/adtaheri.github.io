@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Uncovering the mysteries of microtubule networks from their building blocks to higher order functions"
+title: "Uncovering the mysteries of microtubule networks"
 author_profile: true
 redirect_from: 
   - /about/
