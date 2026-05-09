@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biochemist and structural biologist passionate about molecular mechanisms"
+title: "Uncovering the mysteries of microtubule networks from their building blocks to higher order functions"
 author_profile: true
 redirect_from: 
   - /about/
