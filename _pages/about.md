@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Uncovering the mysteries of microtubule networks"
+title: "Uncovering the Mysteries of Microtubule Networks"
 author_profile: true
 redirect_from: 
   - /about/
