@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Microtubules are dynamic, tube-like structures built from individual tubulin dimers that help give cells their shape, organize their interiors, and drive essential processes such as cell division and intracellular transport. My research is focused across the scales by which microtubules are assembled, ranging from tubulin dimers to microtubules, and the proteins that bind to and regulate them to understand how these molecular machines are built, remodeled, and controlled. 
+Microtubules are dynamic, tube-like structures built from individual tubulin dimers that help give cells their shape, organize their interiors, and drive essential processes such as cell division and intracellular transport. My research is focused across the scales by which microtubules are assembled, ranging from tubulin dimers to microtubules. I am especially interested in the proteins that bind to and regulate microtubules to understand how these filaments are built, remodeled, and controlled. 
 
 Explore the research and publication tabs above to learn more!
 
